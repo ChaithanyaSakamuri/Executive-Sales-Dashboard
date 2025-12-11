@@ -50,7 +50,7 @@ The dashboard is structured around several key performance indicators (KPIs) and
 
 Project by **Chaithanya Sudheer Sakamuri**
 * **LinkedIn:** [https://www.linkedin.com/in/chaithanya-sakamuri/]
-* **GitHub:** [Your GitHub Profile URL]
+* **GitHub:** [https://github.com/ChaithanyaSakamuri]
 * **Email:** [chaithanya23@lpu.in]
 
 ---
